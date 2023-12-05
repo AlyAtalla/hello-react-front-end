@@ -58,9 +58,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HELLO RAILS FRONT_END] <a name="about-project"></a>
+# 📖 [hello-react-front-end ] <a name="about-project"></a>
 
-**[HELLO RAILS FRONT_END]** Hello React Frontend app is a test project on implementing a Rails front-end to connect to an API of a separate Rails back-end. Here is the repository for the back-end: https://github.com/fatima-najafi/hello-rails-back-end
+**[HELLO RAILS FRONT_END]** Hello React Frontend app is a test project on implementing a Rails front-end to connect to an API of a separate Rails back-end. Here is the repository for the back-end: https://github.com/AlyAtalla/hello-rails-back-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -128,7 +128,7 @@ To get a local copy up and running, follow these steps.
   - Navigate to where you want to paste the Repo folder;
   - Run the following commands
 ```
-git clone https://github.com/fatima-najafi/hello-rails-front-end.git
+git clone https://github.com/alyatalla/hello-rails-front-end.git
 cd Hello-Rails-Front-End
 ```
 
@@ -179,9 +179,8 @@ Example:
 
 👤 **Fatima Najafi**
 
-- GitHub: [@fatima-najafi](https://github.com/fatima-najafi)
-- Twitter: [@fatima-najafi](https://twitter.com/FatimaNajafi6)
-- LinkedIn: [@fatima-najafi](https://www.linkedin.com/in/fatima-najafi/)
+- GitHub: [@AlyAtalla](https://github.com/AlyAtalla)
+- LinkedIn: [@AlyAtalla](https://www.linkedin.com/in/AlyAtalla/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +198,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AlyAtalla/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
