@@ -40,7 +40,6 @@ For more information on the importance of a professional README for your reposit
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -96,16 +95,6 @@ For more information on the importance of a professional README for your reposit
 ### Key Features <a name="key-features"></a>
 
 - **Display random Greeting Messages**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](Comming Soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +166,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Fatima Najafi**
+👤 **Aly Atalla**
 
 - GitHub: [@AlyAtalla](https://github.com/AlyAtalla)
 - LinkedIn: [@AlyAtalla](https://www.linkedin.com/in/AlyAtalla/)
