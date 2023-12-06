@@ -63,7 +63,6 @@ For more information on the importance of a professional README for your reposit
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- Ruby on Rails
 - React and Redux
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -71,24 +70,10 @@ For more information on the importance of a professional README for your reposit
 <details>
   <summary>Client</summary>
   <ul>
-    <li>Ruby on Rails</li>
     <li>React and Redux</li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>PostgreSQL</li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -124,19 +109,14 @@ cd Hello-Rails-Front-End
 
 ### Install
 ```
-  bundle install
+npm install
 ```
 
-### Setup Database
-```
-  rails db:create
-  rails db:migrate
-  rails db:seed
-```
+
 
 ### Usage
 ```
-./bin/dev
+npm run start
 
 ```
 ### Run tests
